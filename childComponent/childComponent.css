@@ -1,0 +1,4 @@
+.label {
+    -webkit-text-fill-color: var(--labelColor);
+    font-weight: bold;
+}
